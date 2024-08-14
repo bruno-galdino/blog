@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Meu blog pessoal onde compartilharei sobre o meu aprendizado de programação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blog",
+    "Programação",
+    "Aprendizado"
+  ],
+  "author": "Bruno Soares Galdino (bsg.galdino@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
