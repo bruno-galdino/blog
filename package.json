@@ -4,6 +4,7 @@
   "description": "Meu blog pessoal onde compartilharei sobre o meu aprendizado de programação.",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
