@@ -1,3 +1,2 @@
-node_modules
-.next
-posts/db.sqlite3
+.nvmrc
+backend/db.sqlite3
